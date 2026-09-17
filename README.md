@@ -13,6 +13,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0620-not-boring-movies](https://github.com/gayatri7111/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/gayatri7111/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
