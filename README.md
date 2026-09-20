@@ -13,6 +13,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/gayatri7111/DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0620-not-boring-movies](https://github.com/gayatri7111/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/gayatri7111/DSA/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/gayatri7111/DSA/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
